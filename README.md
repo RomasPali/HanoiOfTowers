@@ -1,6 +1,7 @@
 # HanoiOfTowers
 Hanoi of towers implementation using Java
 
+<pre>
 Step:0
 100
 200
@@ -40,3 +41,4 @@ Step:7
 001
 002
 003
+</pre>
